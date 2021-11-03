@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hello! I'm Aldwin Hidalgo, a Programmer Developer with a passion for solving problem and learning new things.
